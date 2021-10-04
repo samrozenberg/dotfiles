@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sam.rozen@hotmail.com
+	name = Sam Rozenberg
