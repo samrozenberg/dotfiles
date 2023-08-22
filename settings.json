@@ -62,7 +62,6 @@
         "**/tmp/**": true,
         "**/vendor/**": true
     },
-    "git.enabled": false,
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
     "[python]":
@@ -76,5 +75,8 @@
         "rubocop": true
     },
     "workbench.startupEditor": "newUntitledFile",
+    "ruby.rubocop.configFilePath": "/Users/samrozenberg/code/squarehub/.rubocop.yml",
+    "ruby.rubocop.executePath": "/Users/samrozenberg/.rvm/gems/ruby-3.0.2/bin/",
+    "ruby.rubocop.useBundler": true,
     "window.zoomLevel": -2
 }
